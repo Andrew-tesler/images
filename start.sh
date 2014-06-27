@@ -13,6 +13,6 @@ function print() {
 }
 
 
-print test info
+print test INFO
 
 
