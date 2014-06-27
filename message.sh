@@ -24,7 +24,7 @@ infoMessage=$3
 	    status="\e[93m$status"
 	    ;;
 	*)
-	    Message="Somthing wrong with message.sh input should be message.sh text to print , status(OK,INFO,ERROR)"
+	    Message="Somthing wrong with message.sh input should be: message.sh text to print , status(OK,INFO,ERROR)"
 	    ;;
     esac
 
