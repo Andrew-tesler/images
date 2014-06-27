@@ -6,3 +6,13 @@
 # for choosing image
 #-------------------------------------------
 
+function print() {
+    message=$1
+    status=$2
+    source ./message.sh $message $status
+}
+
+
+print test info
+
+
